@@ -1,5 +1,5 @@
 # Pathtracer
-<img src="https://github.com/RiceLiao/TDA362-Pathtracer/blob/master/img/ship.jpg"> | <img src="https://github.com/RiceLiao/TDA362-Pathtracer/blob/master/img/ball.jpg">
+<img src="https://github.com/RiceLiao/TDA362-Pathtracer/blob/main/img/ship.jpg"> | <img src="https://github.com/RiceLiao/TDA362-Pathtracer/blob/main/img/ball.jpg">
 :-------------------------:|:-------------------------:
 
 # Summary
